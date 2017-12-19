@@ -1,3 +1,6 @@
+# DEPRECATED
+由于 x5 对 react-native 项目兼容性很差，已经放弃维护和更新这个项目
+
 # react-native-x5
 X5's WebView for React Native on Android (Interfaces based on ReactNative's WebView Component)
 
